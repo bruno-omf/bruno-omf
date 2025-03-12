@@ -1,8 +1,8 @@
 # Hi, i'm Bruno!
 
 - I'm currently a student of 💻 _Information Systems_ at [Cesar School](https://www.cesar.school/).
-- I have been studying and improving my English.
-- And i'm currently learning `C++`, `Java` and `Assembly`.
+- I've been actively working on improving my English skills to better communicate and collaborate in a global environment.
+- And i'm expanding my programming knowledge by learning `C++`, `Java` and `Assembly`.
 
 <div align='center'>
 📫 How to reach me:
@@ -22,4 +22,4 @@
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-So, that's all about me for now.
+That's all about me for now.
