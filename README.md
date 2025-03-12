@@ -1,22 +1,24 @@
-## Hi, i'm Bruno Oliveira!
+# Hi, i'm Bruno!
 
--  I'm currently a student of **Information Systems** at Cesar School.
--  Currently, I'm still learning English.
--  I'm currently open to work!
--  I'm currently learning **C++**, ##Java##, and ##Assembly##.
+- I'm currently a student of 💻 _Information Systems_ at [Cesar School](https://www.cesar.school/).
+- Currently I'm still learning English.
+- I'm currently learning `C++`, `Java` and `Assembly`.
 
-## How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-me)
+<div align='center'>
+📫 How to reach me:
 
-## Top Languages and Tools
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+[![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-me/)
 
----
+</div>
+
+### Top Languages and Tools:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![VS Code](https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 So, that's all about me for now.
