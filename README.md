@@ -1,8 +1,8 @@
 # Hi, i'm Bruno!
 
 - I'm currently a student of 💻 _Information Systems_ at [Cesar School](https://www.cesar.school/).
-- Currently I'm still learning English.
-- I'm currently learning `C++`, `Java` and `Assembly`.
+- I have been studying and improving my English.
+- And i'm currently learning `C++`, `Java` and `Assembly`.
 
 <div align='center'>
 📫 How to reach me:
