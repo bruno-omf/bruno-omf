@@ -1,10 +1,9 @@
 ## Hi, i'm Bruno Oliveira!
 
-## About Me
-- 🎓 I'm currently a student of **Information Systems** at Cesar School.
-- 🌍 Currently, I'm still learning English.
-- 💼 I'm currently open to work!
-- 📚 I'm currently learning **C++**, ##Java##, and ##Assembly##.
+-  I'm currently a student of **Information Systems** at Cesar School.
+-  Currently, I'm still learning English.
+-  I'm currently open to work!
+-  I'm currently learning **C++**, ##Java##, and ##Assembly##.
 
 ## How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-me)
