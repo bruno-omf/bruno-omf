@@ -1,8 +1,9 @@
 # Hi, i'm Bruno!
 
 - I'm currently a student of 💻 _Information Systems_ at [Cesar School](https://www.cesar.school/).
+- I'm studiying for my [Certified Tester Foundation Level (CTFL)](https://bstqb.online/ctfl) certification in Q.A (quality assurance).
 - I've been actively working on improving my English skills to better communicate and collaborate in a global environment.
-- And i'm expanding my programming knowledge by learning `C++`, `Java` and `Assembly`.
+- And i'm expanding my programming knowledge by learning DSA (data structure algorithms), OOP (object-oriented programming) and some languages like `C`, `C++`, and `Java`.
 
 <div align='center'>
 📫 How to reach me:
